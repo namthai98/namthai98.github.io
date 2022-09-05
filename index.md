@@ -1,6 +1,7 @@
-### This blog was created to share my learing path, my story, knowledge, experience, new things, ...
 
-### Something about me:
+This blog was created to share my learing path, my story, knowledge, experience, new things, ...
+
+Something about me:
 
 - Full name: Thai Vi Nam
 
