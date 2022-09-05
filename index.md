@@ -1,5 +1,15 @@
-Here you can say lots of fun things about your site.
+### This blog was created to share my learing path, my story, knowledge, experience, new things, ...
 
-Maybe say a some things about yourself.
+### Something about me:
 
-Or maybe what you plan to blog about.
+- Full name: Thai Vi Nam
+
+- DOB: 1998
+
+- Hometown: Ho Chi Minh city, Viet Nam
+
+- Degree: Bachelor of Engineering
+
+- Major: Electrical Engineering
+
+- My interest: I am interested in applying Artificial Intelligence, Machine Learning into web, mobile applications for solving next-gen problems
